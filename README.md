@@ -1,2 +1,1 @@
-# zydesnium.github.io
-sekai
+# sekai
